@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/PROJECT/WebApplication8/web/Register.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/ChangePass.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/dal/DAO.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Login.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Confirm.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/controller/AddToCartControl.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/RemoveFromCartControl.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/model/Item.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Checkout.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/ManagerProduct.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Book.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/controller/DetailManager.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/WEB-INF/web.xml</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Cart.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/Home.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/success.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/ManagerAccount.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/controller/CategoryManager.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/ForgetPass.jsp</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/model/Cart.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/src/java/controller/SignUpControl.java</file>
+            <file>file:/D:/PROJECT/WebApplication8/web/ViewProfile.jsp</file>
+        </group>
+    </open-files>
+</project-private>
